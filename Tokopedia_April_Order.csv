@@ -1,0 +1,489 @@
+Count,Order ID,Invoice,Payment Date,Order Status,Product ID,Product Name,Quantity,Stock Keeping Unit (SKU),Notes,Price (Rp.),Discount Amount (Rp.),Subsidi Amount (Rp.),Courier,Shipping Price + fee (Rp.),Insurance (Rp.),Total Shipping Fee (Rp.),Total Amount (Rp.),AWB,Jenis Layanan,Bebas Ongkir,Warehouse Origin,Campaign Name,city,user_id
+1,751186399,INV/20210401/MPL/1141730338,01-04-2021 06:50:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1695943373,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Green,L",1,MOLFull_Green_L,,244500,0,0,JNE(OKE),6000,0,6000,250500,TJE1665382175763,-,,Shop Location,,Jakarta selatan,36
+2,751480895,INV/20210401/MPL/1142472811,01-04-2021 12:33:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046893982,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Purple,S",1,CT_LightPurple_S,,139000,0,0,AnterAja(Reguler),7500,0,7500,146500,10001058599410,-,Yes,Shop Location,,Metro,172
+3,752534781,INV/20210402/MPL/1145111245,02-04-2021 18:31:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1717038925,"miniletics Breezy Crop Tank Tank Top Wanita - Lavender Fog, S",1,BRCrop_LavenderFog_S,,149500,0,0,AnterAja(Reguler),7500,0,7500,331500,10001064268555,-,Yes,Shop Location,,Jakarta timur,157
+,752534781,INV/20210402/MPL/1145111245,02-04-2021 18:31:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1626360282,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Periwinkle,L",1,EMBHigh_Periwinkle_L,,174500,0,0,AnterAja(Reguler),7500,0,7500,331500,10001064268555,-,Yes,Shop Location,,Jakarta timur,157
+4,752586730,INV/20210402/MPL/1145239232,02-04-2021 19:53:59,Transaksi ditolak.,1561263089,"miniletics Confit Jacket Jaket Olahraga Wanita - Eggplant Purple,XL",1,CJ_EggplantPurple_XL,,349000,0,0,JNE(OKE),12000,0,12000,710000,,-,,Shop Location,,,5000
+,752586730,INV/20210402/MPL/1145239232,02-04-2021 19:53:59,Transaksi ditolak.,1561263094,"miniletics Confit Jacket Jaket Olahraga Wanita - Grey Sage,XL",1,CJ_GreySage_XL,,349000,0,0,JNE(OKE),12000,0,12000,710000,,-,,Shop Location,,,5000
+5,752932014,INV/20210403/MPL/1146124468,03-04-2021 10:01:34,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046893986,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Blue,S",1,CT_LightBlue_S,,139000,0,0,AnterAja(Reguler),7500,0,7500,146500,10001064275818,-,Yes,Shop Location,,Jakarta pusat,165
+6,753202150,INV/20210403/MPL/1146807128,03-04-2021 14:42:52,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696083113,"miniletics Tank Top Olahraga Wanita Motion Racerback Tank - Midnight Blue, L",1,MRBTank_MidnightBlue_L,,174500,0,0,SiCepat(Regular Package),3000,0,3000,341500,000490855923,-,Yes,Shop Location,,Surabaya,201
+,753202150,INV/20210403/MPL/1146807128,03-04-2021 14:42:52,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237777731,"miniletics Sprint Tank Tank Top Olahraga Wanita - Soft Pink,M",1,SPRTank_SoftPink_M,,164000,0,0,SiCepat(Regular Package),3000,0,3000,341500,000490855923,-,Yes,Shop Location,,Surabaya,201
+7,753291882,INV/20210403/MPL/1147030678,03-04-2021 16:46:39,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",980041224,"miniletics ClariTy Tank Tank Top Olahraga Wanita - White,L",1,CT_White_L,,139000,0,0,AnterAja(Reguler),7500,0,7500,146500,10001073207576,-,Yes,Shop Location,,Jakarta barat,116
+8,753433226,INV/20210403/MPL/1147376493,03-04-2021 20:53:08,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986577447,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Black,L",1,FFT_Black_L,Size L,134000,0,0,AnterAja(Reguler),7500,0,7500,311000,10001073207561,-,Yes,Shop Location,,Jakarta barat,116
+,753433226,INV/20210403/MPL/1147376493,03-04-2021 20:53:08,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338102459,"miniletics All Day Tank Tank Top Olahraga Wanita - Pink Lace, M",1,ADTank_PinkLace_M,Size M,169500,0,0,AnterAja(Reguler),7500,0,7500,311000,10001073207561,-,Yes,Shop Location,,Jakarta barat,116
+9,753507213,INV/20210403/MPL/1147561767,03-04-2021 23:16:56,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043821300,"miniletics Tie It Strong Tank Tank Top Wanita - Black,M",1,TST_Black_M,,144000,0,0,AnterAja(Reguler),7500,0,7500,290500,10001073203781,-,Yes,Shop Location,,Jakarta utara,40
+,753507213,INV/20210403/MPL/1147561767,03-04-2021 23:16:56,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046893987,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Blue,M",1,CT_LightBlue_M,,139000,0,0,AnterAja(Reguler),7500,0,7500,290500,10001073203781,-,Yes,Shop Location,,Jakarta utara,40
+10,753882713,INV/20210404/MPL/1148506934,04-04-2021 15:01:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696292983,"miniletics Celana Olahraga Wanita Motion Super High-Rise Shorts 10"" - Crimson, L",1,MSHRShorts_Crimson_L,,184500,0,0,AnterAja(Reguler),22500,0,22500,1039500,10001073207112,-,,Shop Location,,Jakarta selatan,180
+,753882713,INV/20210404/MPL/1148506934,04-04-2021 15:01:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1561055941,miniletics Sprint Jacket Jaket Olahraga Wanita - Artichoke Green - L,1,SPRJacket_ArtichokeGreen_L,,274500,0,0,AnterAja(Reguler),22500,0,22500,1039500,10001073207112,-,,Shop Location,,Jakarta selatan,180
+,753882713,INV/20210404/MPL/1148506934,04-04-2021 15:01:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455401,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Grey Sage,L",1,RACrop_GreySage_L,,249500,0,0,AnterAja(Reguler),22500,0,22500,1039500,10001073207112,-,,Shop Location,,Jakarta selatan,180
+,753882713,INV/20210404/MPL/1148506934,04-04-2021 15:01:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043985772,"miniletics Embrace Bra, with A/B Cup Sports Bra - Black,L",1,EMB_Black_L,,174500,0,0,AnterAja(Reguler),22500,0,22500,1039500,10001073207112,-,,Shop Location,,Jakarta selatan,180
+,753882713,INV/20210404/MPL/1148506934,04-04-2021 15:01:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1403131934,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Cold Purple,L",1,FFT_ColdPurple_L,,134000,0,0,AnterAja(Reguler),22500,0,22500,1039500,10001073207112,-,,Shop Location,,Jakarta selatan,180
+11,754124348,INV/20210404/MPL/1149104925,04-04-2021 21:11:43,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060293,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Black, M",1,PWRHigh_Black_M,,174500,0,0,SiCepat(Regular Package),3000,0,3000,352000,000490855921,-,Yes,Shop Location,,Surabaya,152
+,754124348,INV/20210404/MPL/1149104925,04-04-2021 21:11:43,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338041080,"miniletics Soothe Loose (Cropped Long Sleeve) Baju Olahraga Wanita - Dark Grey,M",1,SLoose_DarkGrey_M,,174500,0,0,SiCepat(Regular Package),3000,0,3000,352000,000490855921,-,Yes,Shop Location,,Surabaya,152
+12,754463255,INV/20210405/MPL/1149964081,05-04-2021 10:17:49,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696083112,"miniletics Tank Top Olahraga Wanita Motion Racerback Tank - Midnight Blue, M",1,MRBTank_MidnightBlue_M,,174500,0,0,AnterAja(Reguler),7500,0,7500,182000,10001073201453,-,Yes,Shop Location,,Jakarta selatan,48
+13,754657213,INV/20210405/MPL/1150449079,05-04-2021 13:03:47,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1717038926,"miniletics Breezy Crop Tank Tank Top Wanita - Lavender Fog, M",1,BRCrop_LavenderFog_M,Ukuran M,149500,0,0,AnterAja(Reguler),7500,0,7500,157000,10001075189852,-,Yes,Shop Location,,Jakarta pusat,165
+14,755529568,INV/20210406/MPL/1152524435,06-04-2021 08:35:04,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060293,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Black, M",1,PWRHigh_Black_M,,174500,0,0,AnterAja(Reguler),7500,0,7500,326000,10001078664653,-,Yes,Shop Location,,Jakarta timur,157
+,755529568,INV/20210406/MPL/1152524435,06-04-2021 08:35:04,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046900478,"miniletics Tie It Strong Tank Tank Top Wanita - Soft Pink,S",1,TST_SoftPink_S,,144000,0,0,AnterAja(Reguler),7500,0,7500,326000,10001078664653,-,Yes,Shop Location,,Jakarta timur,157
+15,755873451,INV/20210406/MPL/1153386176,06-04-2021 13:47:49,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046893983,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Purple,M",1,CT_LightPurple_M,,139000,0,0,AnterAja(Reguler),7500,0,7500,146500,10001079886814,-,Yes,Shop Location,,Jakarta pusat,165
+16,756600185,INV/20210407/MPL/1155194716,07-04-2021 10:40:51,Pesanan dibatalkan pembeli.,987978944,"miniletics Swift Legging Full 23"" Legging Olahraga Wanita - Dark Blue, M",1,SLfull_DarkBlue_M,,249500,0,0,AnterAja(Reguler),7500,0,7500,398670,,Bayar di Tempat,Yes,Shop Location,,Jakarta pusat,191
+,756600185,INV/20210407/MPL/1155194716,07-04-2021 10:40:51,Pesanan dibatalkan pembeli.,1074068238,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Dark Blue,M",1,FFT_DarkBlue_M,,134000,0,0,AnterAja(Reguler),7500,0,7500,398670,,Bayar di Tempat,Yes,Shop Location,,Jakarta pusat,191
+17,756610464,INV/20210407/MPL/1155220461,07-04-2021 10:50:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965983,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Purple,S",1,MOLFull_Purple_S,,244500,0,0,SiCepat(Regular Package),12500,0,12500,431500,000491588453,-,Yes,Shop Location,,Gianyar,113
+,756610464,INV/20210407/MPL/1155220461,07-04-2021 10:50:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907628,"miniletics Embrace Bra, with A/B Cup Sports Bra - Cream,S",1,EMB_Cream_S,,174500,0,0,SiCepat(Regular Package),12500,0,12500,431500,000491588453,-,Yes,Shop Location,,Gianyar,113
+18,756628284,INV/20210407/MPL/1155265178,07-04-2021 11:07:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965988,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Grey,M",1,MOLFull_Grey_M,,244500,0,0,AnterAja(Reguler),7500,0,7500,393570,10001086284412,Bayar di Tempat,Yes,Shop Location,,Jakarta pusat,191
+,756628284,INV/20210407/MPL/1155265178,07-04-2021 11:07:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1354364250,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Light Grey,M",1,FFT_LightGrey_M,,134000,0,0,AnterAja(Reguler),7500,0,7500,393570,10001086284412,Bayar di Tempat,Yes,Shop Location,,Jakarta pusat,191
+19,757198972,INV/20210407/MPL/1156675182,07-04-2021 22:29:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458693,"miniletics Breezy Tank Tank Top Wanita - Cream, L",1,BRTank_Cream_L,,169500,0,0,AnterAja(Reguler),7500,0,7500,346500,10001088241440,-,,Shop Location,,Jakarta selatan,177
+,757198972,INV/20210407/MPL/1156675182,07-04-2021 22:29:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458690,"miniletics Breezy Tank Tank Top Wanita - Black, L",1,BRTank_Black_L,,169500,0,0,AnterAja(Reguler),7500,0,7500,346500,10001088241440,-,,Shop Location,,Jakarta selatan,177
+20,757242441,INV/20210407/MPL/1156784466,07-04-2021 23:57:42,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455396,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Black,S",1,RACrop_Black_S,,249500,0,0,AnterAja(Reguler),20000,0,20000,618500,10001088250891,-,Yes,Shop Location,,Bandung,109
+,757242441,INV/20210407/MPL/1156784466,07-04-2021 23:57:42,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1270689926,"miniletics Confit Jacket Jaket Olahraga Wanita - Lavender,S",1,CJ_Lavender_S,,349000,0,0,AnterAja(Reguler),20000,0,20000,618500,10001088250891,-,Yes,Shop Location,,Bandung,109
+21,757917768,INV/20210408/MPL/1158427541,08-04-2021 16:38:01,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987838454,"miniletics Motion Legging Capri 3/4 19"" Legging Olahraga Wanita - Purple,M",1,MOL34_Purple_M,,234500,0,0,AnterAja(Reguler),7500,0,7500,426500,10001092035819,-,,Shop Location,,Jakarta barat,144
+,757917768,INV/20210408/MPL/1158427541,08-04-2021 16:38:01,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696161119,"miniletics Baju Olahraga Wanita Kaos Motion Short Sleeve - Light Purple, M",1,MSSleeve_LightPurple_M,,184500,0,0,AnterAja(Reguler),7500,0,7500,426500,10001092035819,-,,Shop Location,,Jakarta barat,144
+22,758653762,INV/20210409/MPL/1160266002,09-04-2021 14:15:20,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1495263886,"miniletics Motion Shorts 10"" Celana Olahraga Wanita - Brick Red,L",1,MOLShorts_BrickRed_L,,184500,0,0,AnterAja(Reguler),7500,0,7500,391500,10001093803440,-,Yes,Shop Location,,Jakarta timur,29
+,758653762,INV/20210409/MPL/1160266002,09-04-2021 14:15:20,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1433494049,"miniletics Embrace Bra (Limited Edition), with A/B Cup Sports Bra - White Zen Camo, M",1,EMB_WhiteZenCamo_M,,199500,0,0,AnterAja(Reguler),7500,0,7500,391500,10001093803440,-,Yes,Shop Location,,Jakarta timur,29
+23,758834634,INV/20210409/MPL/1160712246,09-04-2021 18:15:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1646771530,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Black,XL",1,RACrop_Black_XL,,249500,0,0,AnterAja(Reguler),7500,0,7500,257000,10001095445220,-,Yes,Shop Location,,Tangerang,45
+24,758903223,INV/20210409/MPL/1160880569,09-04-2021 20:10:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,27500,22000,9624,AnterAja(Reguler),11000,0,11000,66000,10001095447804,-,Yes,Shop Location,Kejar Diskon Spesial,Tasikmalaya,212
+,758903223,INV/20210409/MPL/1160880569,09-04-2021 20:10:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698766,miniletics To be Nimble Headband - Navy,1,NimHeadband_Navy,,27500,22000,9624,AnterAja(Reguler),11000,0,11000,66000,10001095447804,-,Yes,Shop Location,Kejar Diskon Spesial,Tasikmalaya,212
+25,758822825,INV/20210409/MPL/1160683364,09-04-2021 20:23:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696292985,"miniletics Celana Olahraga Wanita Motion Super High-Rise Shorts 10"" - Plum Perfect, S",1,MSHRShorts_PlumPerfect_S,,184500,0,0,AnterAja(Reguler),10000,0,10000,194500,10001095447291,-,Yes,Shop Location,,Bandung,138
+26,758923632,INV/20210409/MPL/1160930410,09-04-2021 20:41:04,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698768,miniletics To be Nimble Headband - Icy Blue,1,NimHeadband_IcyBlue,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,62500,10001095446397,-,Yes,Shop Location,Kejar Diskon Spesial,Jakarta barat,83
+,758923632,INV/20210409/MPL/1160930410,09-04-2021 20:41:04,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,62500,10001095446397,-,Yes,Shop Location,Kejar Diskon Spesial,Jakarta barat,83
+27,758930963,INV/20210409/MPL/1160948677,09-04-2021 20:52:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698766,miniletics To be Nimble Headband - Navy,1,NimHeadband_Navy,Navy. Packing aman ya.,27500,22000,9624,SiCepat(Regular Package),8500,0,8500,36000,000492215642,-,Yes,Shop Location,Kejar Diskon Spesial,Jakarta utara,90
+28,759139508,INV/20210410/MPL/1161477421,10-04-2021 08:20:02,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1495250105,"miniletics Sprint Shorts Celana Olahraga Wanita - Grey,M",1,SPRShorts_Grey_M,,164500,0,0,AnterAja(Reguler),7500,0,7500,172000,10001095447907,-,Yes,Shop Location,,Jakarta barat,139
+29,759298295,INV/20210410/MPL/1161878860,10-04-2021 11:27:41,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1695943374,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Green,XL",1,MOLFull_Green_XL,,244500,0,0,AnterAja(Reguler),7500,0,7500,426500,10001102034331,-,Yes,Shop Location,,Bekasi,161
+,759298295,INV/20210410/MPL/1161878860,10-04-2021 11:27:41,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907630,"miniletics Embrace Bra, with A/B Cup Sports Bra - Cream,L",1,EMB_Cream_L,,174500,0,0,AnterAja(Reguler),7500,0,7500,426500,10001102034331,-,Yes,Shop Location,,Bekasi,161
+30,759419362,INV/20210410/MPL/1162182918,10-04-2021 13:34:58,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1688152064,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Black,M",1,EMBHigh_Black_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001102033828,-,Yes,Shop Location,Sale,Jakarta timur,225
+31,759513276,INV/20210410/MPL/1162417895,10-04-2021 15:31:09,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696018500,"miniletics Motion Shorts 6"" Celana Olahraga Wanita - Maroon,M",1,MOLShorts_Maroon_M,,157050,17450,0,AnterAja(Reguler),10500,0,10500,337050,10001102036625,-,Yes,Shop Location,Sale,Mataram,102
+,759513276,INV/20210410/MPL/1162417895,10-04-2021 15:31:09,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696216275,"miniletics Celana Olahraga wanita Motion Shorts 4"" - Black, M",1,MOLShorts_Black_M,,169500,0,0,AnterAja(Reguler),10500,0,10500,337050,10001102036625,-,Yes,Shop Location,,Mataram,102
+32,759544739,INV/20210410/MPL/1162495467,10-04-2021 16:16:03,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",980008156,"miniletics Cross Limit (Cropped Tank) Tank Top Olahraga Wanita - Black,S",1,CLT_Black_S,,125550,13950,0,JNE(YES),20500,0,20500,146050,TJX1012446660857,Next Day,,Shop Location,Sale,Jakarta selatan,8
+33,759695163,INV/20210410/MPL/1162862584,10-04-2021 20:30:33,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060291,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Magenta,M",1,PWRHigh_Magenta_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,486674,10001102031105,-,Yes,Shop Location,Sale,Tangerang,202
+,759695163,INV/20210410/MPL/1162862584,10-04-2021 20:30:33,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043879033,"miniletics Alleviate Bra, with A/B Cup Sports Bra - White,M",1,ALB_White_M,,152550,16950,0,AnterAja(Reguler),7500,0,7500,486674,10001102031105,-,Yes,Shop Location,Sale,Tangerang,202
+,759695163,INV/20210410/MPL/1162862584,10-04-2021 20:30:33,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986647209,"miniletics Tank Top Olahraga Wanita Notice Mi 2 in 1 Tank, A/B cup - Grey,M",1,NMT_Grey_M,,169574,29924,0,AnterAja(Reguler),7500,0,7500,486674,10001102031105,-,Yes,Shop Location,Sale,Tangerang,202
+34,759712245,INV/20210410/MPL/1162904826,10-04-2021 20:59:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1695943370,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Green,XS",1,MOLFull_Green_XS,,220050,24450,0,AnterAja(Reguler),15000,0,15000,569000,10001102030614,-,Yes,Shop Location,Sale,Jakarta barat,38
+,759712245,INV/20210410/MPL/1162904826,10-04-2021 20:59:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1403131929,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - White,S",1,FFT_White_S,,113900,20100,0,AnterAja(Reguler),15000,0,15000,569000,10001102030614,-,Yes,Shop Location,Sale,Jakarta barat,38
+,759712245,INV/20210410/MPL/1162904826,10-04-2021 20:59:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1240390320,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Mauve Pink,M",1,MOLFull_MauvePink_M,,220050,24450,0,AnterAja(Reguler),15000,0,15000,569000,10001102030614,-,Yes,Shop Location,Sale,Jakarta barat,38
+35,759844476,INV/20210411/MPL/1163236076,11-04-2021 06:14:27,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237777730,"miniletics Sprint Tank Tank Top Olahraga Wanita - Soft Pink,S",1,SPRTank_SoftPink_S,,131200,32800,0,AnterAja(Reguler),10000,0,10000,266750,10001102035374,-,Yes,Shop Location,Sale,Bandung,10
+,759844476,INV/20210411/MPL/1163236076,11-04-2021 06:14:27,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046094247,"miniletics Born to be Bra-ve , with A/B Cup Sports Bra - Purple,S",1,BBB_Purple_S,,125550,13950,0,AnterAja(Reguler),10000,0,10000,266750,10001102035374,-,Yes,Shop Location,Sale,Bandung,10
+36,759860779,INV/20210411/MPL/1163278056,11-04-2021 07:17:44,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",980008156,"miniletics Cross Limit (Cropped Tank) Tank Top Olahraga Wanita - Black,S",1,CLT_Black_S,,125550,13950,0,AnterAja(Reguler),7500,0,7500,246950,10001102030603,-,Yes,Shop Location,Sale,Jakarta selatan,25
+,759860779,INV/20210411/MPL/1163278056,11-04-2021 07:17:44,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986577439,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Blue,S",1,FFT_Blue_S,,113900,20100,0,AnterAja(Reguler),7500,0,7500,246950,10001102030603,-,Yes,Shop Location,Sale,Jakarta selatan,25
+37,759982368,INV/20210411/MPL/1163585362,11-04-2021 10:49:30,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1688152066,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Black,XL",1,EMBHigh_Black_XL,,157050,17450,0,AnterAja(Reguler),7500,0,7500,321600,10001102036205,-,,Shop Location,Sale,Jakarta barat,228
+,759982368,INV/20210411/MPL/1163585362,11-04-2021 10:49:30,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1646798658,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,XL",1,EMB_LightPurple_XL,,157050,17450,0,AnterAja(Reguler),7500,0,7500,321600,10001102036205,-,,Shop Location,Sale,Jakarta barat,228
+38,760087987,INV/20210411/MPL/1163850939,11-04-2021 13:08:10,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965985,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Blue,S",1,MOLFull_Blue_S,,220050,24450,0,AnterAja(Reguler),7500,0,7500,341450,10001102036636,-,Yes,Shop Location,Sale,Tangerang,260
+,760087987,INV/20210411/MPL/1163850939,11-04-2021 13:08:10,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986577439,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Blue,S",1,FFT_Blue_S,,113900,20100,0,AnterAja(Reguler),7500,0,7500,341450,10001102036636,-,Yes,Shop Location,Sale,Tangerang,260
+39,760137966,INV/20210411/MPL/1163976074,11-04-2021 14:19:12,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1495250109,"miniletics Sprint Shorts Celana Olahraga Wanita - White,M",1,SPRShorts_White_M,,139824,24674,0,AnterAja(Reguler),7500,0,7500,147324,10001102031132,-,Yes,Shop Location,Sale,Jakarta selatan,108
+40,760220379,INV/20210411/MPL/1164182998,11-04-2021 16:25:50,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1222901210,"miniletics Tie It Strong Tank Tank Top Wanita - Light Blue,S",1,TST_LightBlue_S,,115200,28800,0,AnterAja(Reguler),7500,0,7500,122700,10001102034214,-,Yes,Shop Location,Sale,Jakarta selatan,253
+41,760298569,INV/20210411/MPL/1164376960,11-04-2021 18:30:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1240390318,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Mauve Pink,XS",1,MOLFull_MauvePink_XS,,220050,24450,0,AnterAja(Reguler),7500,0,7500,384600,10001102030625,-,Yes,Shop Location,Sale,Jakarta utara,118
+,760298569,INV/20210411/MPL/1164376960,11-04-2021 18:30:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060292,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Black,S",1,PWRHigh_Black_S,,157050,17450,0,AnterAja(Reguler),7500,0,7500,384600,10001102030625,-,Yes,Shop Location,Sale,Jakarta utara,118
+42,760357678,INV/20210411/MPL/1164523800,11-04-2021 19:58:11,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1695943371,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Green,S",1,MOLFull_Green_S,,220050,24450,0,AnterAja(Reguler),7500,0,7500,227550,10001102030355,-,Yes,Shop Location,Sale,Surabaya,234
+43,760378085,INV/20210411/MPL/1164574654,11-04-2021 20:25:44,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455401,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Grey Sage,L",1,RACrop_GreySage_L,,224550,24950,0,JNE(OKE),12000,0,12000,461100,TJE1422287004060,-,,Shop Location,Sale,Pati,148
+,760378085,INV/20210411/MPL/1164574654,11-04-2021 20:25:44,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455404,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Lavender Grey,L",1,RACrop_LavenderGrey_L,,224550,24950,0,JNE(OKE),12000,0,12000,461100,TJE1422287004060,-,,Shop Location,Sale,Pati,148
+44,760406727,INV/20210411/MPL/1164646449,11-04-2021 21:04:26,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907633,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,L",1,EMB_LightPurple_L,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001102030342,-,Yes,Shop Location,Sale,Jakarta barat,184
+45,760166362,INV/20210411/MPL/1164047062,11-04-2021 21:21:37,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986577441,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Black,S",1,FFT_Black_S,,113900,20100,0,AnterAja(Reguler),7500,0,7500,121400,10001102030638,-,Yes,Shop Location,Sale,Jakarta barat,38
+46,760447770,INV/20210411/MPL/1164750366,11-04-2021 22:02:44,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338041079,"miniletics Soothe Loose (Cropped Long Sleeve) Baju Olahraga Wanita - Dark Grey,S",1,SLoose_DarkGrey_S,,139600,34900,0,AnterAja(Reguler),7500,0,7500,147100,10001102033839,-,Yes,Shop Location,Sale,Jakarta utara,24
+47,760681509,INV/20210412/MPL/1165339823,12-04-2021 08:44:02,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907632,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,M",1,EMB_LightPurple_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001102031114,-,Yes,Shop Location,Sale,Bekasi,5
+48,761114225,INV/20210412/MPL/1166425783,12-04-2021 15:07:27,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1424506251,"miniletics Vibrant Y Bra, with A/B Cup Sports Bra - Eggplant Purple,M",1,VibY_EggplantPurple_M,,157050,17450,0,JNE(OKE),6000,0,6000,294250,TJE1078547112448,-,,Shop Location,Sale,Jakarta barat,79
+,761114225,INV/20210412/MPL/1166425783,12-04-2021 15:07:27,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237777731,"miniletics Sprint Tank Tank Top Olahraga Wanita - Soft Pink,M",1,SPRTank_SoftPink_M,,131200,32800,0,JNE(OKE),6000,0,6000,294250,TJE1078547112448,-,,Shop Location,Sale,Jakarta barat,79
+49,761169038,INV/20210412/MPL/1166561295,12-04-2021 16:06:25,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338102456,"miniletics All Day Tank Tank Top Olahraga Wanita - Black,M",1,ADTank_Black_M,,135600,33900,0,AnterAja(Reguler),7500,0,7500,192600,10001106551290,-,Yes,Shop Location,Sale,Tangerang,56
+,761169038,INV/20210412/MPL/1166561295,12-04-2021 16:06:25,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,49500,0,0,AnterAja(Reguler),7500,0,7500,192600,10001106551290,-,Yes,Shop Location,,Tangerang,56
+50,761193468,INV/20210412/MPL/1166620932,12-04-2021 16:34:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986647208,"miniletics Tank Top Olahraga Wanita Notice Mi 2 in 1 Tank, A/B cup - Grey,S",1,NMT_Grey_S,,169574,29924,0,AnterAja(Reguler),15000,0,15000,715674,10001106549947,-,Yes,Shop Location,Sale,Jakarta barat,120
+,761193468,INV/20210412/MPL/1166620932,12-04-2021 16:34:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1717038925,"miniletics Breezy Crop Tank Tank Top Wanita - Lavender Fog, S",1,BRCrop_LavenderFog_S,,149500,0,0,AnterAja(Reguler),15000,0,15000,715674,10001106549947,-,Yes,Shop Location,,Jakarta barat,120
+,761193468,INV/20210412/MPL/1166620932,12-04-2021 16:34:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987978944,"miniletics Swift Legging Full 23"" Legging Olahraga Wanita - Dark Blue,M",1,SLfull_DarkBlue_M,,224550,24950,0,AnterAja(Reguler),15000,0,15000,715674,10001106549947,-,Yes,Shop Location,Sale,Jakarta barat,120
+,761193468,INV/20210412/MPL/1166620932,12-04-2021 16:34:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060290,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Magenta,S",1,PWRHigh_Magenta_S,,157050,17450,0,AnterAja(Reguler),15000,0,15000,715674,10001106549947,-,Yes,Shop Location,Sale,Jakarta barat,120
+51,761285688,INV/20210412/MPL/1166845889,12-04-2021 18:44:52,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1433494049,"miniletics Embrace Bra (Limited Edition), with A/B Cup Sports Bra - White Zen Camo,M",1,EMB_WhiteZenCamo_M,,179550,19950,0,AnterAja(Reguler),7500,0,7500,187050,10001106552051,-,Yes,Shop Location,Sale,Jakarta barat,186
+52,761628536,INV/20210413/MPL/1167706870,13-04-2021 08:18:21,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043879030,"miniletics Alleviate Bra, with A/B Cup Sports Bra - White,S",1,ALB_White_S,,152550,16950,0,AnterAja(Reguler),7500,0,7500,160050,10001106549079,-,Yes,Shop Location,Sale,Landak,154
+53,761725951,INV/20210413/MPL/1167954537,13-04-2021 09:58:42,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1646798658,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,XL",1,EMB_LightPurple_XL,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001107088193,-,Yes,Shop Location,Sale,Jakarta timur,29
+54,761781377,INV/20210413/MPL/1168093677,13-04-2021 10:41:05,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696161125,"miniletics Baju Olahraga Wanita Kaos Motion Short Sleeve - Cream, M",1,MSSleeve_Cream_M,,166050,18450,0,AnterAja(Reguler),7500,0,7500,393600,10001107385104,-,Yes,Shop Location,Sale,Jakarta barat,144
+,761781377,INV/20210413/MPL/1168093677,13-04-2021 10:41:05,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1240390320,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Mauve Pink,M",1,MOLFull_MauvePink_M,,220050,24450,0,AnterAja(Reguler),7500,0,7500,393600,10001107385104,-,Yes,Shop Location,Sale,Jakarta barat,144
+55,761845661,INV/20210413/MPL/1168256303,13-04-2021 11:30:21,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1403131930,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - White,M",1,FFT_White_M,,113900,20100,0,AnterAja(Reguler),7500,0,7500,121400,10001107825664,-,Yes,Shop Location,Sale,Jakarta utara,130
+56,761878456,INV/20210413/MPL/1168339176,13-04-2021 11:55:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1695943373,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Green,L",1,MOLFull_Green_L,,220050,24450,0,AnterAja(Reguler),15000,0,15000,569000,10001107829015,-,Yes,Shop Location,Sale,Sleman,205
+,761878456,INV/20210413/MPL/1168339176,13-04-2021 11:55:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1354364250,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Light Grey,M",1,FFT_LightGrey_M,,113900,20100,0,AnterAja(Reguler),15000,0,15000,569000,10001107829015,-,Yes,Shop Location,Sale,Sleman,205
+,761878456,INV/20210413/MPL/1168339176,13-04-2021 11:55:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965992,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Grey,L",1,MOLFull_Grey_L,,220050,24450,0,AnterAja(Reguler),15000,0,15000,569000,10001107829015,-,Yes,Shop Location,Sale,Sleman,205
+57,761971670,INV/20210413/MPL/1168575507,13-04-2021 13:07:29,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907633,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,L",1,EMB_LightPurple_L,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001108261560,-,Yes,Shop Location,Sale,Jakarta barat,132
+58,762203261,INV/20210413/MPL/1169154955,13-04-2021 16:41:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986577444,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Black,M",1,FFT_Black_M,,113900,20100,0,AnterAja(Reguler),17000,0,17000,130900,10001112565146,-,Yes,Shop Location,Sale,Kupang,71
+59,762244205,INV/20210413/MPL/1169255678,13-04-2021 17:36:52,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987978942,"miniletics Swift Legging Full 23"" Legging Olahraga Wanita - Dark Blue,S",1,SLfull_DarkBlue_S,,224550,24950,0,AnterAja(Reguler),7500,0,7500,443100,10001112523933,-,Yes,Shop Location,Sale,Landak,230
+,762244205,INV/20210413/MPL/1169255678,13-04-2021 17:36:52,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1138628370,"miniletics Motion Legging Capri 3/4 19"" Legging Olahraga Wanita - Maroon,S",1,MOL34_Maroon_S,,211050,23450,0,AnterAja(Reguler),7500,0,7500,443100,10001112523933,-,Yes,Shop Location,Sale,Landak,230
+60,762264875,INV/20210413/MPL/1169306441,13-04-2021 18:11:25,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1646783326,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Mauve Pink,XL",1,EMBHigh_MauvePink_XL,,157050,17450,0,AnterAja(Reguler),3500,0,3500,160550,10001112513170,-,Yes,Shop Location,Sale,Sidoarjo,204
+61,762277058,INV/20210413/MPL/1169336090,13-04-2021 18:31:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458689,"miniletics Breezy Tank Tank Top Wanita - Black, M",1,BRTank_Black_M,,169500,0,0,SiCepat(HALU),5500,0,5500,399550,000493312058,-,,Shop Location,,Jakarta selatan,149
+,762277058,INV/20210413/MPL/1169336090,13-04-2021 18:31:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455401,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Grey Sage,L",1,RACrop_GreySage_L,,224550,24950,0,SiCepat(HALU),5500,0,5500,399550,000493312058,-,,Shop Location,Sale,Jakarta selatan,149
+62,762284577,INV/20210413/MPL/1169354440,13-04-2021 18:42:26,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698766,miniletics To be Nimble Headband - Navy,1,NimHeadband_Navy,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,35000,10001112522169,-,Yes,Shop Location,Kejar Diskon Spesial,Jakarta utara,197
+63,762330662,INV/20210413/MPL/1169467910,13-04-2021 19:45:20,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,35000,10001112523610,-,Yes,Shop Location,Kejar Diskon Spesial,Jakarta barat,147
+64,762336957,INV/20210413/MPL/1169483594,13-04-2021 19:53:59,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,35000,10001112524181,-,Yes,Shop Location,Kejar Diskon Spesial,Denpasar,126
+65,762385844,INV/20210413/MPL/1169604880,13-04-2021 20:54:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237450798,"miniletics Motion Shorts 10"" Celana Olahraga Wanita - Brick Red,M",1,MOLShorts_BrickRed_M,,166050,18450,0,AnterAja(Reguler),7500,0,7500,332472,10001112522172,Bayar di Tempat,Yes,Shop Location,Sale,Jakarta pusat,191
+,762385844,INV/20210413/MPL/1169604880,13-04-2021 20:54:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046903881,"miniletics Alleviate Bra, with A/B Cup Sports Bra - Coral,M",1,ALB_Coral_M,,152550,16950,0,AnterAja(Reguler),7500,0,7500,332472,10001112522172,Bayar di Tempat,Yes,Shop Location,Sale,Jakarta pusat,191
+66,762402067,INV/20210413/MPL/1169645711,13-04-2021 21:14:17,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237777734,"miniletics Sprint Tank Tank Top Olahraga Wanita - White Mint,M",1,SPRTank_WhiteMint_M,,131200,32800,0,AnterAja(Reguler),7500,0,7500,308200,10001112523447,-,Yes,Shop Location,Sale,Jakarta pusat,165
+,762402067,INV/20210413/MPL/1169645711,13-04-2021 21:14:17,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458692,"miniletics Breezy Tank Tank Top Wanita - Cream, M",1,BRTank_Cream_M,,169500,0,0,AnterAja(Reguler),7500,0,7500,308200,10001112523447,-,Yes,Shop Location,,Jakarta pusat,165
+67,762840725,INV/20210414/MPL/1170754833,14-04-2021 11:19:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1744331278,"miniletics All Day Jogger Celana Olahraga Wanita - Grey Sage, S",1,ADJogger_GreySage_S,,213274,11224,0,SiCepat(HALU),11000,0,11000,821900,000493411093,-,,Shop Location,Sale,Jakarta timur,4
+,762840725,INV/20210414/MPL/1170754833,14-04-2021 11:19:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338151461,"miniletics Pure Tee-nergy (Long Sleeve) Baju Olahraga Wanita - Purple Heather,S",1,PureLong_PurpleHeather_S,,175050,19450,0,SiCepat(HALU),11000,0,11000,821900,000493411093,-,,Shop Location,Sale,Jakarta timur,4
+,762840725,INV/20210414/MPL/1170754833,14-04-2021 11:19:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1688159776,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Grey Sage,M",1,EMBHigh_GreySage_M,,157050,17450,0,SiCepat(HALU),11000,0,11000,821900,000493411093,-,,Shop Location,Sale,Jakarta timur,4
+,762840725,INV/20210414/MPL/1170754833,14-04-2021 11:19:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696332466,"miniletics Legging Olahraga Wanita Motion Train Tight 23"" - Grey Sage, M",1,MOLTrain_GreySage_M,,265524,13974,0,SiCepat(HALU),11000,0,11000,821900,000493411093,-,,Shop Location,Sale,Jakarta timur,4
+68,762951346,INV/20210414/MPL/1171033053,14-04-2021 12:47:58,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965986,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Black,M",1,MOLFull_Black_M,,220050,24450,0,AnterAja(Reguler),7500,0,7500,384600,10001114807013,-,,Shop Location,Sale,Bangka,188
+,762951346,INV/20210414/MPL/1171033053,14-04-2021 12:47:58,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060291,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Magenta,M",1,PWRHigh_Magenta_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,384600,10001114807013,-,,Shop Location,Sale,Bangka,188
+69,763158854,INV/20210414/MPL/1171550024,14-04-2021 15:56:35,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1005874854,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Purple,XS",1,MOLFull_Purple_XS,,220050,24450,0,AnterAja(Reguler),7500,0,7500,227550,10001117755421,-,Yes,Shop Location,Sale,Jakarta barat,38
+70,763269193,INV/20210414/MPL/1171820189,14-04-2021 18:34:48,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",980041222,"miniletics ClariTy Tank Tank Top Olahraga Wanita - White,M",1,CT_White_M,,118150,20850,0,AnterAja(Reguler),10000,0,10000,259350,10001117757210,-,Yes,Shop Location,Sale,Denpasar,159
+,763269193,INV/20210414/MPL/1171820189,14-04-2021 18:34:48,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237777731,"miniletics Sprint Tank Tank Top Olahraga Wanita - Soft Pink,M",1,SPRTank_SoftPink_M,,131200,32800,0,AnterAja(Reguler),10000,0,10000,259350,10001117757210,-,Yes,Shop Location,Sale,Denpasar,159
+71,763361183,INV/20210414/MPL/1172046758,14-04-2021 20:37:57,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907632,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,M",1,EMB_LightPurple_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001117755735,-,Yes,Shop Location,Sale,Bekasi,95
+72,763356352,INV/20210414/MPL/1172034865,14-04-2021 23:20:02,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060291,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Magenta,M",1,PWRHigh_Magenta_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001117756086,-,Yes,Shop Location,Sale,Jakarta timur,103
+73,763477603,INV/20210414/MPL/1172338127,14-04-2021 23:25:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987838453,"miniletics Motion Legging Capri 3/4 19"" Legging Olahraga Wanita - Pink,M",1,MOL34_Pink_M,,211050,23450,0,AnterAja(Reguler),40000,0,40000,735650,10001117756927,-,Yes,Shop Location,Sale,Makassar,16
+,763477603,INV/20210414/MPL/1172338127,14-04-2021 23:25:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696216275,"miniletics Celana Olahraga wanita Motion Shorts 4"" - Black, M",1,MOLShorts_Black_M,,161024,8474,0,AnterAja(Reguler),40000,0,40000,735650,10001117756927,-,Yes,Shop Location,Sale,Makassar,16
+,763477603,INV/20210414/MPL/1172338127,14-04-2021 23:25:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719594579,"miniletics Sprint Short Sleeve Kaos Olahraga Wanita - Black, M",1,SPRSSleeve_Black_M,,179500,0,0,AnterAja(Reguler),40000,0,40000,735650,10001117756927,-,Yes,Shop Location,,Makassar,16
+,763477603,INV/20210414/MPL/1172338127,14-04-2021 23:25:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238020221,"miniletics Feel Free Bra, with A/B Cup Sports Bra - Black,S",1,FFB_Black_M,,144074,25424,0,AnterAja(Reguler),40000,0,40000,735650,10001117756927,-,Yes,Shop Location,Sale,Makassar,16
+74,763549675,INV/20210415/MPL/1172521092,15-04-2021 04:44:09,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060293,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Black,M",1,PWRHigh_Black_M,,157050,17450,0,SiCepat(HALU),5500,0,5500,387100,000493624029,-,,Shop Location,Sale,Jakarta selatan,1
+,763549675,INV/20210415/MPL/1172521092,15-04-2021 04:44:09,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455400,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Grey Sage,M",1,RACrop_GreySage_M,,224550,24950,0,SiCepat(HALU),5500,0,5500,387100,000493624029,-,,Shop Location,Sale,Jakarta selatan,1
+75,763602939,INV/20210415/MPL/1172659113,15-04-2021 07:36:33,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043879031,"miniletics Alleviate Bra, with A/B Cup Sports Bra - Black,S",1,ALB_Black_S,,152550,16950,0,JNE(OKE),6000,0,6000,378600,TJE1437205010624,-,,Shop Location,Sale,Jakarta barat,164
+,763602939,INV/20210415/MPL/1172659113,15-04-2021 07:36:33,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965981,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Black,S",1,MOLFull_Black_S,,220050,24450,0,JNE(OKE),6000,0,6000,378600,TJE1437205010624,-,,Shop Location,Sale,Jakarta barat,164
+76,763636752,INV/20210415/MPL/1172745189,15-04-2021 08:31:02,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698767,miniletics To be Nimble Headband - Warm Pink,1,NimHeadband_WarmPink,,49500,0,0,AnterAja(Reguler),7500,0,7500,106500,10001117754543,-,Yes,Shop Location,,Jakarta pusat,12
+,763636752,INV/20210415/MPL/1172745189,15-04-2021 08:31:02,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,49500,0,0,AnterAja(Reguler),7500,0,7500,106500,10001117754543,-,Yes,Shop Location,,Jakarta pusat,12
+77,763845874,INV/20210415/MPL/1173273002,15-04-2021 11:40:59,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1403131930,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - White,M",1,FFT_White_M,,113900,20100,0,AnterAja(Reguler),7500,0,7500,121400,10001119135243,-,Yes,Shop Location,Sale,Jakarta timur,225
+78,764221707,INV/20210415/MPL/1174208256,15-04-2021 18:07:42,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,35000,10001122200945,-,Yes,Shop Location,Kejar Diskon Spesial,Jakarta selatan,162
+79,764251211,INV/20210415/MPL/1174280024,15-04-2021 18:57:26,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043985772,"miniletics Embrace Bra, with A/B Cup Sports Bra - Black,L",1,EMB_Black_L,Boleh minta busa cup yg tipis ga yah?? Thanks,157050,17450,0,SiCepat(HALU),2500,0,2500,159550,000493925100,-,,Shop Location,Sale,Surabaya,208
+80,764263574,INV/20210415/MPL/1174310352,15-04-2021 19:12:19,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698767,miniletics To be Nimble Headband - Warm Pink,1,NimHeadband_WarmPink,,27500,22000,9624,JNE(OKE),6000,0,6000,33500,TJE1111252243680,-,,Shop Location,Kejar Diskon Spesial,Jakarta utara,80
+81,764413448,INV/20210415/MPL/1174683080,15-04-2021 22:38:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1240347300,"miniletics Alleviate Bra, with A/B Cup Sports Bra - Periwinkle,S",1,ALB_Periwinkle_S,,152550,16950,0,AnterAja(Reguler),7500,0,7500,317100,10001122201542,-,Yes,Shop Location,Sale,Jakarta barat,141
+,764413448,INV/20210415/MPL/1174683080,15-04-2021 22:38:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060291,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Magenta,M",1,PWRHigh_Magenta_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,317100,10001122201542,-,Yes,Shop Location,Sale,Jakarta barat,141
+82,764570333,INV/20210416/MPL/1175082330,16-04-2021 07:51:05,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046916109,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Cherry Pink,L",1,FFT_CherryPink_L,,113900,20100,0,AnterAja(Reguler),3500,0,3500,117400,10001122202190,-,Yes,Shop Location,Sale,Sidoarjo,14
+83,765168541,INV/20210416/MPL/1176574780,16-04-2021 18:22:44,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455396,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Black,S",1,RACrop_Black_S,,224550,24950,0,AnterAja(Reguler),7500,0,7500,232050,10001126515179,-,Yes,Shop Location,Sale,Jakarta utara,24
+84,765730106,INV/20210417/MPL/1177840724,17-04-2021 06:47:29,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1646771531,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Lavender Grey,XL",1,RACrop_LavenderGrey_XL,,224550,24950,0,AnterAja(Reguler),7500,0,7500,232050,10001126515720,-,Yes,Shop Location,Sale,Tangerang,45
+85,766349784,INV/20210417/MPL/1179392519,17-04-2021 19:18:23,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1626360283,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - White,L",1,EMBHigh_White_L,,157050,17450,0,AnterAja(Reguler),7500,0,7500,279750,10001133295406,-,Yes,Shop Location,Sale,Jakarta timur,157
+,766349784,INV/20210417/MPL/1179392519,17-04-2021 19:18:23,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1222901210,"miniletics Tie It Strong Tank Tank Top Wanita - Light Blue,S",1,TST_LightBlue_S,,115200,28800,0,AnterAja(Reguler),7500,0,7500,279750,10001133295406,-,Yes,Shop Location,Sale,Jakarta timur,157
+86,766430123,INV/20210417/MPL/1179590293,17-04-2021 21:25:14,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696292986,"miniletics Celana Olahraga Wanita Motion Super High-Rise Shorts 10"" - Plum Perfect, M",1,MSHRShorts_PlumPerfect_M,,175274,9224,0,SiCepat(Regular Package),3000,0,3000,357774,000494724645,-,Yes,Shop Location,Sale,Lebak,193
+,766430123,INV/20210417/MPL/1179590293,17-04-2021 21:25:14,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719594583,"miniletics Sprint Short Sleeve Kaos Olahraga Wanita - Dark Blue, L",1,SPRSSleeve_DarkBlue_L,,179500,0,0,SiCepat(Regular Package),3000,0,3000,357774,000494724645,-,Yes,Shop Location,,Lebak,193
+87,766512167,INV/20210418/MPL/1179794079,18-04-2021 00:05:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338041079,"miniletics Soothe Loose (Cropped Long Sleeve) Baju Olahraga Wanita - Dark Grey,S",1,SLoose_DarkGrey_S,,139600,34900,0,AnterAja(Reguler),10000,0,10000,149600,10001133292153,-,Yes,Shop Location,Sale,Bandung,109
+88,766533119,INV/20210418/MPL/1179847477,18-04-2021 01:45:59,Transaksi ditolak.,1495250109,"miniletics Sprint Shorts Celana Olahraga Wanita - White,M",1,SPRShorts_White_M,,139824,24674,0,AnterAja(Reguler),7500,0,7500,150120,,Bayar di Tempat,Yes,Shop Location,Sale,,5000
+89,766656667,INV/20210418/MPL/1180160456,18-04-2021 09:13:34,Transaksi ditolak.,1495250109,"miniletics Sprint Shorts Celana Olahraga Wanita - White,M",1,SPRShorts_White_M,,139824,24674,0,AnterAja(Reguler),7500,0,7500,147324,,-,Yes,Shop Location,Sale,,5000
+90,766890266,INV/20210418/MPL/1180751322,18-04-2021 13:34:32,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043879030,"miniletics Alleviate Bra, with A/B Cup Sports Bra - White,S",1,ALB_White_S,,152550,16950,0,AnterAja(Reguler),7500,0,7500,160050,10001133298443,-,Yes,Shop Location,Sale,Jakarta timur,98
+91,767091958,INV/20210418/MPL/1181252707,18-04-2021 18:02:34,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060293,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Black,M",1,PWRHigh_Black_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001133294188,-,Yes,Shop Location,Sale,Jakarta timur,127
+92,767557065,INV/20210419/MPL/1182418079,19-04-2021 09:50:43,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696083113,"miniletics Tank Top Olahraga Wanita Motion Racerback Tank - Midnight Blue, L",1,MRBTank_MidnightBlue_L,,165774,8724,0,AnterAja(Reguler),7500,0,7500,287174,10001134142350,-,Yes,Shop Location,Sale,Tangerang,169
+,767557065,INV/20210419/MPL/1182418079,19-04-2021 09:50:43,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1074068238,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Dark Blue,M",1,FFT_DarkBlue_M,,113900,20100,0,AnterAja(Reguler),7500,0,7500,287174,10001134142350,-,Yes,Shop Location,Sale,Tangerang,169
+93,767566931,INV/20210419/MPL/1182442819,19-04-2021 09:59:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986577444,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Black,M",1,FFT_Black_M,,113900,20100,0,AnterAja(Reguler),3500,0,3500,117400,10001134145245,-,Yes,Shop Location,Sale,Surabaya,63
+94,767709671,INV/20210419/MPL/1182798401,19-04-2021 11:51:58,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907632,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,M",1,EMB_LightPurple_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,164550,10001134849507,-,Yes,Shop Location,Sale,Jakarta utara,143
+95,768034586,INV/20210419/MPL/1183603273,19-04-2021 16:53:29,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455398,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Black,L",1,RACrop_Black_L,,224550,24950,0,JNE(OKE),6000,0,6000,230550,TJE1656678555000,-,,Shop Location,Sale,Jakarta selatan,149
+96,768109554,INV/20210419/MPL/1183785782,19-04-2021 18:54:21,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043879030,"miniletics Alleviate Bra, with A/B Cup Sports Bra - White,S",1,ALB_White_S,,152550,16950,0,SiCepat(Regular Package),3000,0,3000,582100,000495050749,-,Yes,Shop Location,Sale,Surabaya,60
+,768109554,INV/20210419/MPL/1183785782,19-04-2021 18:54:21,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696332465,"miniletics Legging Olahraga Wanita Motion Train Tight 23"" - Grey Sage, S",1,MOLTrain_GreySage_S,,265524,13974,0,SiCepat(Regular Package),3000,0,3000,582100,000495050749,-,Yes,Shop Location,Sale,Surabaya,60
+,768109554,INV/20210419/MPL/1183785782,19-04-2021 18:54:21,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696216278,"miniletics Celana Olahraga wanita Motion Shorts 4"" - Steel Blue, S",1,MOLShorts_SteelBlue_S,,161024,8474,0,SiCepat(Regular Package),3000,0,3000,582100,000495050749,-,Yes,Shop Location,Sale,Surabaya,60
+97,768129805,INV/20210419/MPL/1183835072,19-04-2021 19:23:50,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965981,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Black,S",1,MOLFull_Black_S,,220050,24450,0,SiCepat(Regular Package),12500,0,12500,546650,000495050748,-,Yes,Shop Location,Sale,Gianyar,113
+,768129805,INV/20210419/MPL/1183835072,19-04-2021 19:23:50,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043985771,"miniletics Embrace Bra, with A/B Cup Sports Bra - Black,M",1,EMB_Black_M,,157050,17450,0,SiCepat(Regular Package),12500,0,12500,546650,000495050748,-,Yes,Shop Location,Sale,Gianyar,113
+,768129805,INV/20210419/MPL/1183835072,19-04-2021 19:23:50,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237733173,"miniletics Motion Shorts 6"" Celana Olahraga Wanita - Black Camo,S",1,MOLShorts_BlackCamo_S,,157050,17450,0,SiCepat(Regular Package),12500,0,12500,546650,000495050748,-,Yes,Shop Location,Sale,Gianyar,113
+98,768161736,INV/20210419/MPL/1183914104,19-04-2021 20:11:04,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1695943373,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Green,L",1,MOLFull_Green_L,,220050,24450,0,AnterAja(Reguler),7500,0,7500,377050,10001138068959,-,Yes,Shop Location,Sale,Tangerang,142
+,768161736,INV/20210419/MPL/1183914104,19-04-2021 20:11:04,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1717038927,"miniletics Breezy Crop Tank Tank Top Wanita - Lavender Fog, L",1,BRCrop_LavenderFog_L,,149500,0,0,AnterAja(Reguler),7500,0,7500,377050,10001138068959,-,Yes,Shop Location,,Tangerang,142
+99,768186887,INV/20210419/MPL/1183976069,19-04-2021 20:41:30,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237777734,"miniletics Sprint Tank Tank Top Olahraga Wanita - White Mint,M",1,SPRTank_WhiteMint_M,,131200,32800,0,AnterAja(Reguler),7500,0,7500,138700,10001138069824,-,Yes,Shop Location,Sale,Jakarta pusat,165
+100,769066460,INV/20210420/MPL/1186059699,20-04-2021 14:11:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455399,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Grey Sage,S",1,RACrop_GreySage_S,,224550,24950,0,JNE(OKE),7500,0,7500,232050,TJE1266378703200,-,,Shop Location,Sale,Tangerang,128
+101,769103111,INV/20210420/MPL/1186150055,20-04-2021 14:45:41,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1403131930,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - White,M",1,FFT_White_M,,113900,20100,0,AnterAja(Reguler),7500,0,7500,278450,10001140099004,-,Yes,Shop Location,Sale,Tangerang,163
+,769103111,INV/20210420/MPL/1186150055,20-04-2021 14:45:41,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060290,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Magenta,S",1,PWRHigh_Magenta_S,,157050,17450,0,AnterAja(Reguler),7500,0,7500,278450,10001140099004,-,Yes,Shop Location,Sale,Tangerang,163
+102,769131600,INV/20210420/MPL/1186220075,20-04-2021 15:16:39,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458691,"miniletics Breezy Tank Tank Top Wanita - Cream, S",1,BRTank_Cream_S,,169500,0,0,AnterAja(Reguler),9500,0,9500,179000,10001140336660,-,Yes,Shop Location,,Sukoharjo,261
+103,769163359,INV/20210420/MPL/1186298272,20-04-2021 15:51:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1005897446,"miniletics Motion Legging Capri 3/4 19"" Legging Olahraga Wanita - Green,M",1,MOL34_Green_M,,211050,23450,0,JNE(OKE),8000,0,8000,439100,TJE1662237576224,-,,Shop Location,Sale,Denpasar,244
+,769163359,INV/20210420/MPL/1186298272,20-04-2021 15:51:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965986,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Black,M",1,MOLFull_Black_M,,220050,24450,0,JNE(OKE),8000,0,8000,439100,TJE1662237576224,-,,Shop Location,Sale,Denpasar,244
+104,769417105,INV/20210420/MPL/1186917588,20-04-2021 21:51:20,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458689,"miniletics Breezy Tank Tank Top Wanita - Black, M",1,BRTank_Black_M,,169500,0,0,AnterAja(Reguler),7500,0,7500,401550,10001143670914,-,Yes,Shop Location,,Semarang,153
+,769417105,INV/20210420/MPL/1186917588,20-04-2021 21:51:20,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455400,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Grey Sage,M",1,RACrop_GreySage_M,,224550,24950,0,AnterAja(Reguler),7500,0,7500,401550,10001143670914,-,Yes,Shop Location,Sale,Semarang,153
+105,769675738,INV/20210421/MPL/1187566616,21-04-2021 09:19:58,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338151459,"miniletics Pure Tee-nergy (Long Sleeve) Baju Olahraga Wanita - Black,M",1,PureLong_Black_M,,175050,19450,0,AnterAja(Reguler),7500,0,7500,182550,10001146281630,-,Yes,Shop Location,Sale,Jakarta selatan,218
+106,769674436,INV/20210421/MPL/1187563375,21-04-2021 09:28:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237733173,"miniletics Motion Shorts 6"" Celana Olahraga Wanita - Black Camo,S",1,MOLShorts_BlackCamo_S,,157050,17450,0,AnterAja(Reguler),7500,0,7500,339824,10001146280998,-,Yes,Shop Location,Sale,Tangerang,170
+,769674436,INV/20210421/MPL/1187563375,21-04-2021 09:28:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696292981,"miniletics Celana Olahraga Wanita Motion Super High-Rise Shorts 10"" - Crimson, S",1,MSHRShorts_Crimson_S,,175274,9224,0,AnterAja(Reguler),7500,0,7500,339824,10001146280998,-,Yes,Shop Location,Sale,Tangerang,170
+107,769366805,INV/20210420/MPL/1186793458,21-04-2021 11:10:03,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043879034,"miniletics Alleviate Bra, with A/B Cup Sports Bra - Black,M",1,ALB_Black_M,,152550,16950,0,JNE(YES),20500,0,20500,173050,TJX1160220081824,Next Day,,Shop Location,Sale,Jakarta utara,219
+108,769933168,INV/20210421/MPL/1188209956,21-04-2021 13:13:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237450795,"miniletics Motion Shorts 10"" Celana Olahraga Wanita - Midnight Blue,M",1,MOLShorts_MidnightBlue_M,,166050,18450,0,AnterAja(Reguler),7500,0,7500,330600,10001146281160,-,Yes,Shop Location,Sale,Jakarta utara,40
+,769933168,INV/20210421/MPL/1188209956,21-04-2021 13:13:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237671404,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Periwinkle, M",1,EMBHigh_Periwinkle_M,,157050,17450,0,AnterAja(Reguler),7500,0,7500,330600,10001146281160,-,Yes,Shop Location,Sale,Jakarta utara,40
+109,769989444,INV/20210421/MPL/1188349766,21-04-2021 14:03:14,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,35000,10001149711486,-,Yes,Shop Location,Kejar Diskon Spesial,Tangerang,155
+110,769990371,INV/20210421/MPL/1188352085,21-04-2021 14:04:48,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046912731,"miniletics Tank Top Olahraga Wanita Notice Mi 2 in 1 Tank, A/B cup - Navy,S",1,NMT_Navy_S,,169574,29924,0,JNE(YES),20500,0,20500,190074,TJX1436224548633,Next Day,,Shop Location,Sale,Jakarta selatan,2
+111,770008678,INV/20210421/MPL/1188397229,21-04-2021 14:22:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,27500,22000,9624,SiCepat(Regular Package),10000,0,10000,37500,000495640966,-,Yes,Shop Location,Kejar Diskon Spesial,Tangerang,156
+112,770040585,INV/20210421/MPL/1188476294,21-04-2021 14:53:37,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698767,miniletics To be Nimble Headband - Warm Pink,1,NimHeadband_WarmPink,,27500,22000,9624,AnterAja(Reguler),7500,0,7500,35000,10001149709551,-,Yes,Shop Location,Kejar Diskon Spesial,Tangerang,155
+113,770060634,INV/20210421/MPL/1188525871,21-04-2021 15:15:08,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1074068238,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Dark Blue,M",1,FFT_DarkBlue_M,,113900,20100,0,AnterAja(Reguler),7500,0,7500,121400,10001149705106,-,Yes,Shop Location,Sale,Jakarta pusat,165
+114,770065354,INV/20210421/MPL/1188537455,21-04-2021 15:21:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1782392224,"miniletics Feel Free Basic Legging Legging Wanita - Hitam, XL",1,FFL_Black_XL,,129500,0,0,AnterAja(Reguler),21000,0,21000,150500,10001149707452,-,Yes,Shop Location,,Ketapang,220
+115,770347020,INV/20210421/MPL/1189225742,21-04-2021 22:08:23,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1403131934,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Cold Purple,L",1,FFT_ColdPurple_L,,113900,20100,0,AnterAja(Reguler),7500,0,7500,121400,10001149705735,-,Yes,Shop Location,Sale,Bekasi,33
+116,770383148,INV/20210421/MPL/1189316383,21-04-2021 23:11:31,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1495205314,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Magenta,L",1,PWRHigh_Magenta_L,,157050,17450,0,AnterAja(Reguler),7500,0,7500,214050,10001149705744,-,Yes,Shop Location,Sale,Ende,78
+,770383148,INV/20210421/MPL/1189316383,21-04-2021 23:11:31,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698765,miniletics To be Nimble Headband - Black,1,NimHeadband_Black,,49500,0,0,AnterAja(Reguler),7500,0,7500,214050,10001149705744,-,Yes,Shop Location,,Ende,78
+117,770414033,INV/20210422/MPL/1189393990,22-04-2021 00:34:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1646771530,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Black,XL",1,RACrop_Black_XL,,224550,24950,0,AnterAja(Reguler),7500,0,7500,232050,10001149705937,-,Yes,Shop Location,Sale,Jakarta utara,97
+118,770813336,INV/20210422/MPL/1190401232,22-04-2021 12:46:57,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043985771,"miniletics Embrace Bra, with A/B Cup Sports Bra - Black,M",1,EMB_Black_M,,157050,17450,0,J&T(Reguler),10000,0,10000,387100,JT8497151132,-,,Shop Location,Sale,Bandung,53
+,770813336,INV/20210422/MPL/1190401232,22-04-2021 12:46:57,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987965981,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Black,S",1,MOLFull_Black_S,,220050,24450,0,J&T(Reguler),10000,0,10000,387100,JT8497151132,-,,Shop Location,Sale,Bandung,53
+119,771049170,INV/20210422/MPL/1190985637,22-04-2021 16:54:10,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237450795,"miniletics Motion Shorts 10"" Celana Olahraga Wanita - Midnight Blue,M",1,MOLShorts_MidnightBlue_M,,166050,18450,0,AnterAja(Reguler),7500,0,7500,223050,10001156251250,-,Yes,Shop Location,Sale,Jakarta selatan,39
+,771049170,INV/20210422/MPL/1190985637,22-04-2021 16:54:10,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698766,miniletics To be Nimble Headband - Navy,1,NimHeadband_Navy,,49500,0,0,AnterAja(Reguler),7500,0,7500,223050,10001156251250,-,Yes,Shop Location,,Jakarta selatan,39
+120,771088143,INV/20210422/MPL/1191081091,22-04-2021 18:03:24,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046907631,"miniletics Embrace Bra, with A/B Cup Sports Bra - Light Purple,S",1,EMB_LightPurple_S,,157050,17450,0,SiCepat(Regular Package),28000,0,28000,185050,000495931285,-,Yes,Shop Location,Sale,Dumai,69
+121,771293779,INV/20210422/MPL/1191590072,22-04-2021 23:22:39,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1043879034,"miniletics Alleviate Bra, with A/B Cup Sports Bra - Black,M",1,ALB_Black_M,,152550,16950,0,SiCepat(Regular Package),3000,0,3000,155550,000495931284,-,Yes,Shop Location,Sale,Surabaya,64
+122,771436258,INV/20210423/MPL/1191947143,23-04-2021 07:19:58,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696216276,"miniletics Celana Olahraga wanita Motion Shorts 4"" - Black, L",1,MOLShorts_Black_L,,161024,8474,0,SiCepat(Regular Package),11000,0,11000,172024,000495931283,-,Yes,Shop Location,Sale,Tegal,131
+123,771445094,INV/20210423/MPL/1191969521,23-04-2021 07:39:50,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1688159777,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Grey Sage,L",1,EMBHigh_GreySage_L,,157050,17450,0,AnterAja(Reguler),7500,0,7500,321600,10001156251153,-,Yes,Shop Location,Sale,Jakarta barat,228
+,771445094,INV/20210423/MPL/1191969521,23-04-2021 07:39:50,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1626360282,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Periwinkle,L",1,EMBHigh_Periwinkle_L,,157050,17450,0,AnterAja(Reguler),7500,0,7500,321600,10001156251153,-,Yes,Shop Location,Sale,Jakarta barat,228
+124,771564973,INV/20210423/MPL/1192268705,23-04-2021 11:00:17,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046893982,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Purple,S",1,CT_LightPurple_S,,118150,20850,0,AnterAja(Reguler),7500,0,7500,125650,10001158362453,-,Yes,Shop Location,Sale,Ende,255
+125,771947332,INV/20210423/MPL/1193219775,23-04-2021 15:04:19,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060293,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Black,M",1,PWRHigh_Black_M,,166050,18450,0,Gojek(Instant Courier),10000,0,10000,176050,GK-11-409217970,Same Day,,Shop Location,Sale,Surabaya,174
+126,772136234,INV/20210423/MPL/1193677888,23-04-2021 18:53:52,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237450798,"miniletics Motion Shorts 10"" Celana Olahraga Wanita - Brick Red,M",1,MOLShorts_BrickRed_M,,166050,18450,0,AnterAja(Reguler),4000,0,4000,170050,10001165152830,-,Yes,Shop Location,Sale,Kerinci,61
+127,772223329,INV/20210423/MPL/1193882734,23-04-2021 20:15:46,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1270689947,"miniletics Confit Jacket Jaket Olahraga Wanita - Pink Pastel,M",1,CJ_PinkPastel_M,,50,348950,261700,AnterAja(Reguler),7500,0,7500,7550,10001165130849,-,,Shop Location,Kejar Diskon Spesial,Tegal,231
+128,772223684,INV/20210423/MPL/1193883520,23-04-2021 20:15:57,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1270689947,"miniletics Confit Jacket Jaket Olahraga Wanita - Pink Pastel,M",1,CJ_PinkPastel_M,,50,348950,261700,AnterAja(Reguler),7500,0,7500,7550,10001165132641,-,,Shop Location,Kejar Diskon Spesial,Jakarta pusat,221
+129,772234564,INV/20210423/MPL/1193908259,23-04-2021 20:22:03,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1270689947,"miniletics Confit Jacket Jaket Olahraga Wanita - Pink Pastel,M",1,CJ_PinkPastel_M,,50,348950,261700,SiCepat(HALU),5500,0,5500,5550,000496286587,-,,Shop Location,Kejar Diskon Spesial,Jakarta selatan,256
+130,772234040,INV/20210423/MPL/1193907042,23-04-2021 20:22:07,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1270689947,"miniletics Confit Jacket Jaket Olahraga Wanita - Pink Pastel,M",1,CJ_PinkPastel_M,,50,348950,261700,AnterAja(Reguler),7500,0,7500,7550,10001165135897,-,,Shop Location,Kejar Diskon Spesial,Jakarta barat,223
+131,772236676,INV/20210423/MPL/1193913184,23-04-2021 20:23:30,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1270689947,"miniletics Confit Jacket Jaket Olahraga Wanita - Pink Pastel,M",1,CJ_PinkPastel_M,,50,348950,261700,SiCepat(HALU),2500,0,2500,2550,000496286592,-,,Shop Location,Kejar Diskon Spesial,Surabaya,215
+132,772421176,INV/20210423/MPL/1194357864,23-04-2021 23:24:00,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696216274,"miniletics Celana Olahraga wanita Motion Shorts 4"" - Black, S",1,MOLShorts_Black_S,,161024,8474,0,AnterAja(Reguler),7500,0,7500,168524,10001165132948,-,Yes,Shop Location,Sale,Jakarta utara,26
+133,772958171,INV/20210424/MPL/1195708379,24-04-2021 13:38:21,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1744331276,"miniletics All Day Jogger Celana Olahraga Wanita - Black, M",1,ADJogger_Black_M,,213274,11224,0,AnterAja(Reguler),15000,0,15000,452824,10001176696268,-,Yes,Shop Location,Sale,Jakarta barat,237
+,772958171,INV/20210424/MPL/1195708379,24-04-2021 13:38:21,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455397,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Black,M",1,RACrop_Black_M,,224550,24950,0,AnterAja(Reguler),15000,0,15000,452824,10001176696268,-,Yes,Shop Location,Sale,Jakarta barat,237
+134,773663485,INV/20210425/MPL/1197461965,25-04-2021 11:01:40,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237671406,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Mauve Pink,M",1,EMBHigh_MauvePink_M,,166050,18450,0,SiCepat(Regular Package),3000,0,3000,169050,000496845682,-,Yes,Shop Location,Sale,Kupang,243
+135,774085802,INV/20210425/MPL/1198514617,25-04-2021 19:12:28,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1238060293,"miniletics Power High Neck Bra, with A/B Cup Sports Bra - Black,M",1,PWRHigh_Black_M,,166050,18450,0,AnterAja(Reguler),7500,0,7500,173550,10001176697863,-,Yes,Shop Location,Sale,Jakarta timur,252
+136,774384720,INV/20210426/MPL/1199259327,26-04-2021 07:40:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1717038925,"miniletics Breezy Crop Tank Tank Top Wanita - Lavender Fog, S",1,BRCrop_LavenderFog_S,,149500,0,0,Gojek(Instant Courier),13500,0,13500,837274,GK-11-409982706,Same Day,,Shop Location,,Kupang,140
+,774384720,INV/20210426/MPL/1199259327,26-04-2021 07:40:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458688,"miniletics Breezy Tank Tank Top Wanita - Black, S",1,BRTank_Black_S,,169500,0,0,Gojek(Instant Courier),13500,0,13500,837274,GK-11-409982706,Same Day,,Shop Location,,Kupang,140
+,774384720,INV/20210426/MPL/1199259327,26-04-2021 07:40:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458691,"miniletics Breezy Tank Tank Top Wanita - Cream, S",1,BRTank_Cream_S,,169500,0,0,Gojek(Instant Courier),13500,0,13500,837274,GK-11-409982706,Same Day,,Shop Location,,Kupang,140
+,774384720,INV/20210426/MPL/1199259327,26-04-2021 07:40:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719458694,"miniletics Breezy Tank Tank Top Wanita - Light Purple, S",1,BRTank_LightPurple_S,,169500,0,0,Gojek(Instant Courier),13500,0,13500,837274,GK-11-409982706,Same Day,,Shop Location,,Kupang,140
+,774384720,INV/20210426/MPL/1199259327,26-04-2021 07:40:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696083111,"miniletics Tank Top Olahraga Wanita Motion Racerback Tank - Midnight Blue, S",1,MRBTank_MidnightBlue_S,,165774,8724,0,Gojek(Instant Courier),13500,0,13500,837274,GK-11-409982706,Same Day,,Shop Location,Sale,Kupang,140
+137,774311290,INV/20210426/MPL/1199074297,26-04-2021 08:05:14,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1495250105,"miniletics Sprint Shorts Celana Olahraga Wanita - Grey,M",1,SPRShorts_Grey_M,,139824,24674,0,AnterAja(Reguler),7500,0,7500,262524,10001176695834,-,Yes,Shop Location,Sale,Jakarta selatan,15
+,774311290,INV/20210426/MPL/1199074297,26-04-2021 08:05:14,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046900475,"miniletics Tie It Strong Tank Tank Top Wanita - Dusty Orange,S",1,TST_DustyOrange_S,,115200,28800,0,AnterAja(Reguler),7500,0,7500,262524,10001176695834,-,Yes,Shop Location,Sale,Jakarta selatan,15
+138,774620822,INV/20210426/MPL/1199853324,26-04-2021 10:55:40,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237733173,"miniletics Motion Shorts 6"" Celana Olahraga Wanita - Black Camo,S",1,MOLShorts_BlackCamo_S,,157050,17450,0,SiCepat(HALU),6000,0,6000,494600,000496899273,-,,Shop Location,Sale,Tangerang,117
+,774620822,INV/20210426/MPL/1199853324,26-04-2021 10:55:40,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696083111,"miniletics Tank Top Olahraga Wanita Motion Racerback Tank - Midnight Blue, S",1,MRBTank_MidnightBlue_S,,165774,8724,0,SiCepat(HALU),6000,0,6000,494600,000496899273,-,,Shop Location,Sale,Tangerang,117
+,774620822,INV/20210426/MPL/1199853324,26-04-2021 10:55:40,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696083115,"miniletics Tank Top Olahraga Wanita Motion Racerback Tank - Toasty Grey, S",1,MRBTank_ToastyGrey_S,,165774,8724,0,SiCepat(HALU),6000,0,6000,494600,000496899273,-,,Shop Location,Sale,Tangerang,117
+139,774874946,INV/20210426/MPL/1200487007,26-04-2021 14:12:59,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046893983,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Purple,M",1,CT_LightPurple_M,,118150,20850,0,Gojek(Instant Courier),7000,0,7000,249650,GK-11-410161676,Same Day,,Shop Location,Sale,Malang,68
+,774874946,INV/20210426/MPL/1200487007,26-04-2021 14:12:59,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",987797116,"miniletics Mera Sierra Legging - Black,All Size",1,Sierra_Black_OneSize,,124500,0,0,Gojek(Instant Courier),7000,0,7000,249650,GK-11-410161676,Same Day,,Shop Location,,Malang,68
+140,775468406,INV/20210427/MPL/1201952794,27-04-2021 07:14:04,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",986577441,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Black,S",1,FFT_Black_S,,113900,20100,0,Gojek(Instant Courier),7000,0,7000,120900,GK-11-410346104,Same Day,,Shop Location,Sale,Malang,68
+141,775562532,INV/20210427/MPL/1202192072,27-04-2021 09:47:44,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1237450798,"miniletics Motion Shorts 10"" Celana Olahraga Wanita - Brick Red,M",1,MOLShorts_BrickRed_M,,166050,18450,0,SiCepat(HALU),6500,0,6500,172550,000497236525,-,,Shop Location,Sale,Jakarta selatan,39
+142,775640281,INV/20210427/MPL/1202386211,27-04-2021 10:23:20,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1074068238,"miniletics Feel Free Basic Crop Tank Tank Top Olahraga Wanita - Dark Blue,M",1,FFT_DarkBlue_M,,113900,20100,0,AnterAja(Reguler),7500,0,7500,121400,10001186018445,-,Yes,Shop Location,Sale,Bekasi,5
+143,775658070,INV/20210427/MPL/1202430836,27-04-2021 10:37:26,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338455397,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Black,M",1,RACrop_Black_M,,224550,24950,0,GrabExpress(Instant),5500,0,5500,230050,IN-2-0IUPBBUNJSRZ1O2VTDC5,Same Day,,Shop Location,Sale,Malang,68
+144,775718564,INV/20210427/MPL/1202582563,27-04-2021 11:25:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1005897446,"miniletics Motion Legging Capri 3/4 19"" Legging Olahraga Wanita - Green,M",1,MOL34_Green_M,,211050,23450,0,AnterAja(Reguler),7500,0,7500,336700,10001186567952,-,Yes,Shop Location,Sale,Depok,37
+,775718564,INV/20210427/MPL/1202582563,27-04-2021 11:25:38,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1046893983,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Purple,M",1,CT_LightPurple_M,,118150,20850,0,AnterAja(Reguler),7500,0,7500,336700,10001186567952,-,Yes,Shop Location,Sale,Depok,37
+145,775838567,INV/20210427/MPL/1202882013,27-04-2021 12:58:39,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696083111,"miniletics Tank Top Olahraga Wanita Motion Racerback Tank - Midnight Blue, S",1,MRBTank_MidnightBlue_S,,165774,8724,0,AnterAja(Reguler),7500,0,7500,444474,10001188038081,-,,Shop Location,Sale,Jakarta utara,247
+,775838567,INV/20210427/MPL/1202882013,27-04-2021 12:58:39,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338102458,"miniletics All Day Tank Tank Top Olahraga Wanita - Pink Lace,S",1,ADTank_PinkLace_S,,135600,33900,0,AnterAja(Reguler),7500,0,7500,444474,10001188038081,-,,Shop Location,Sale,Jakarta utara,247
+,775838567,INV/20210427/MPL/1202882013,27-04-2021 12:58:39,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1338102455,"miniletics All Day Tank Tank Top Olahraga Wanita - Black,S",1,ADTank_Black_S,,135600,33900,0,AnterAja(Reguler),7500,0,7500,444474,10001188038081,-,,Shop Location,Sale,Jakarta utara,247
+146,775920937,INV/20210427/MPL/1203085718,27-04-2021 14:03:15,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1695943373,"miniletics Motion Legging Full 24"" Legging Olahraga Wanita - Green,L",1,MOLFull_Green_L,,220050,24450,0,AnterAja(Reguler),21000,0,21000,241050,10001192666773,-,Yes,Shop Location,Sale,Ketapang,220
+147,776208706,INV/20210427/MPL/1203787491,27-04-2021 19:33:59,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1688159776,"miniletics Embrace Bra High Neck, with A/B Cup Sports Bra - Grey Sage,M",1,EMBHigh_GreySage_M,,166050,18450,0,AnterAja(Reguler),4000,0,4000,170050,10001192663635,-,Yes,Shop Location,Sale,Belu,211
+148,776212971,INV/20210427/MPL/1203798010,27-04-2021 19:38:39,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1646771531,"miniletics Ready Anywhere Crop 22"" Celana Wanita - Lavender Grey,XL",1,RACrop_LavenderGrey_XL,,224550,24950,0,AnterAja(Reguler),7500,0,7500,232050,10001192659933,-,Yes,Shop Location,Sale,Jakarta utara,97
+149,776240721,INV/20210427/MPL/1203865840,27-04-2021 20:13:44,"Pesanan telah tiba di tujuan..
+Dana akan diteruskan ketika barang dikonfirmasi pembeli atau otomatis dalam 48 jam.",1719698766,miniletics To be Nimble Headband - Navy,1,NimHeadband_Navy,,27500,22000,9624,AnterAja(Reguler),22500,0,22500,77500,10001192664386,-,Yes,Shop Location,Kejar Diskon Spesial,Medan,129
+,776240721,INV/20210427/MPL/1203865840,27-04-2021 20:13:44,"Pesanan telah tiba di tujuan..
+Dana akan diteruskan ketika barang dikonfirmasi pembeli atau otomatis dalam 48 jam.",1719698768,miniletics To be Nimble Headband - Icy Blue,1,NimHeadband_IcyBlue,,27500,22000,9624,AnterAja(Reguler),22500,0,22500,77500,10001192664386,-,Yes,Shop Location,Kejar Diskon Spesial,Medan,129
+150,776266106,INV/20210427/MPL/1203928302,27-04-2021 20:44:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1696161125,"miniletics Baju Olahraga Wanita Kaos Motion Short Sleeve - Cream, M",1,MSSleeve_Cream_M,,175274,9224,0,AnterAja(Reguler),7500,0,7500,462474,10001192659920,-,Yes,Shop Location,Sale,Jakarta selatan,150
+,776266106,INV/20210427/MPL/1203928302,27-04-2021 20:44:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",980041222,"miniletics ClariTy Tank Tank Top Olahraga Wanita - White,M",1,CT_White_M,,118150,20850,0,AnterAja(Reguler),7500,0,7500,462474,10001192659920,-,Yes,Shop Location,Sale,Jakarta selatan,150
+,776266106,INV/20210427/MPL/1203928302,27-04-2021 20:44:13,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1424506251,"miniletics Vibrant Y Bra, with A/B Cup Sports Bra - Eggplant Purple,M",1,VibY_EggplantPurple_M,,161550,17950,0,AnterAja(Reguler),7500,0,7500,462474,10001192659920,-,Yes,Shop Location,Sale,Jakarta selatan,150
+151,776691339,INV/20210428/MPL/1204934161,28-04-2021 08:19:36,"Transaksi selesai..
+Dana akan diteruskan ke penjual.",1719698766,miniletics To be Nimble Headband - Navy,1,NimHeadband_Navy,,49500,0,0,JNE(OKE),6000,0,6000,55500,TJE1380855820015,-,,Shop Location,,Jakarta timur,189
+152,777500227,INV/20210428/MPL/1206941604,28-04-2021 21:35:50,"Pesanan telah tiba di tujuan..
+Dana akan diteruskan ketika barang dikonfirmasi pembeli atau otomatis dalam 48 jam.",1222901212,"miniletics Tie It Strong Tank Tank Top Wanita - Light Blue,L",1,TST_LightBlue_L,,115200,28800,0,AnterAja(Reguler),7500,0,7500,275200,10001199838003,-,,Shop Location,Sale,Jakarta barat,258
+,777500227,INV/20210428/MPL/1206941604,28-04-2021 21:35:50,"Pesanan telah tiba di tujuan..
+Dana akan diteruskan ketika barang dikonfirmasi pembeli atau otomatis dalam 48 jam.",1719458690,"miniletics Breezy Tank Tank Top Wanita - Black, L",1,BRTank_Black_L,,152500,17000,0,AnterAja(Reguler),7500,0,7500,275200,10001199838003,-,,Shop Location,Sale,Jakarta barat,258
+153,779020490,INV/20210430/MPL/1210703519,30-04-2021 09:45:17,"Pesanan telah dikirim..
+Pesanan dalam proses pengiriman oleh kurir.",986647209,"miniletics Tank Top Olahraga Wanita Notice Mi 2 in 1 Tank, A/B cup - Grey,M",1,NMT_Grey_M,,169574,29924,0,AnterAja(Reguler),7500,0,7500,390350,10001207721921,-,Yes,Shop Location,Sale,Bekasi,224
+,779020490,INV/20210430/MPL/1210703519,30-04-2021 09:45:17,"Pesanan telah dikirim..
+Pesanan dalam proses pengiriman oleh kurir.",1744331282,"miniletics All Day Jogger Celana Olahraga Wanita - Pink Frost, M",1,ADJogger_PinkFrost_M,,213274,11224,0,AnterAja(Reguler),7500,0,7500,390350,10001207721921,-,Yes,Shop Location,Sale,Bekasi,224
+154,779190079,INV/20210430/MPL/1211127472,30-04-2021 12:03:28,"Pesanan telah tiba di tujuan..
+Dana akan diteruskan ketika barang dikonfirmasi pembeli atau otomatis dalam 48 jam.",1338102455,"miniletics All Day Tank Tank Top Olahraga Wanita - Black,S",1,ADTank_Black_S,,147500,37000,0,JNE(OKE),6000,0,6000,153500,TJE1713382531762,-,,Shop Location,Sale,Ende,255
+155,778875173,INV/20210430/MPL/1210335865,30-04-2021 20:40:09,"Pesanan telah dikirim..
+Pesanan dalam proses pengiriman oleh kurir.",1787755759,"miniletics Feel Free Basic Legging Legging Wanita - Black, M",1,FFL_Black_M,,129500,0,0,AnterAja(Reguler),7500,0,7500,421200,10001225583471,-,Yes,Shop Location,,Bogor,99
+,778875173,INV/20210430/MPL/1210335865,30-04-2021 20:40:09,"Pesanan telah dikirim..
+Pesanan dalam proses pengiriman oleh kurir.",1046893988,"miniletics ClariTy Tank Tank Top Olahraga Wanita - Light Blue,L",1,CT_LightBlue_L,,118150,20850,0,AnterAja(Reguler),7500,0,7500,421200,10001225583471,-,Yes,Shop Location,Sale,Bogor,99
+,778875173,INV/20210430/MPL/1210335865,30-04-2021 20:40:09,"Pesanan telah dikirim..
+Pesanan dalam proses pengiriman oleh kurir.",1046907629,"miniletics Embrace Bra, with A/B Cup Sports Bra - Cream,M",1,EMB_Cream_M,,166050,18450,0,AnterAja(Reguler),7500,0,7500,421200,10001225583471,-,Yes,Shop Location,Sale,Bogor,99
